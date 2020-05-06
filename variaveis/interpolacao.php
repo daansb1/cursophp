@@ -12,3 +12,4 @@ echo "<br>$texto";
 $objeto = 'caneta';
 echo "<br> Eu tenho 5 $objeto s";
 echo "<br> Eu tenho 5 {$objeto}s.";
+echo "<br> Eu tenho 5 {$objeto}s mas perdi 3 {$objeto } s";
